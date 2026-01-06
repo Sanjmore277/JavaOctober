@@ -16,7 +16,7 @@ public class Demo3 {
    
 // method call
 // objectname.methodname();
-   s3.M5();
+   s3.M5();                // non static form same class 
    s3.M5();
   }
      
